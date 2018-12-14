@@ -1,7 +1,7 @@
 cd /var/backups/teste
 
-git add --all
+sudo git add --all
 
-git commit -m '<Atualizando o arquivo>'
+sudo git commit -m '<Atualizando arquivo>'
 
-git push origin master
+sudo git push origin master
