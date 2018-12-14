@@ -4,4 +4,4 @@ sudo git add --all
 
 sudo git commit -m '<Atualizando arquivo>'
 
-sudo git push origin master
+sudo git push -u origin master
