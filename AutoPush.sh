@@ -1,4 +1,4 @@
-
+cd /var/backups/teste
 
  sudo git add --all
 
