@@ -173,3 +173,9 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 To https://github.com/lucas2500/auto-push-crontab.git
    93305a4..9633893  master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 9828777] <Atualizando>
+ 2 files changed, 5 insertions(+)
+ create mode 100644 RedmineBackup_2018-12-162347.sql.gz
+To https://github.com/lucas2500/auto-push-crontab.git
+   9633893..9828777  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
