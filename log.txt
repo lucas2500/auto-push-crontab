@@ -39,3 +39,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
  create mode 100644 key_ssh
  create mode 100644 key_ssh.pub
 fatal: could not read Username for 'https://github.com': No such device or address
+[master 8fdb27c] <updating>
+ 2 files changed, 6 insertions(+)
+ create mode 100644 .key_ssh.pub.swp
+fatal: could not read Username for 'https://github.com': No such device or address
