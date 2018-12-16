@@ -4,3 +4,8 @@
  rewrite log.txt (100%)
 /var/backups/teste/AutoPush.sh: 8: /var/backups/teste/AutoPush.sh: bombapatch36: not found
 fatal: could not read Username for 'https://github.com': No such device or address
+[master ffee347] <updating>
+ 2 files changed, 6 insertions(+)
+ create mode 100644 .AutoPush.sh.swp
+/var/backups/teste/AutoPush.sh: 8: /var/backups/teste/AutoPush.sh: bombapatch36: not found
+fatal: could not read Username for 'https://github.com': No such device or address
