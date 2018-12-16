@@ -3,3 +3,7 @@
  delete mode 100644 .AutoPush.sh.swp
  rewrite log.txt (100%)
 fatal: unable to access 'https://{lucas2500}:{bombapatch36}@github.com/{lucas2500}/{auto-push-crontab}.git/': The requested URL returned error: 400
+[master 1b2c356] <updating>
+ 2 files changed, 5 insertions(+)
+ create mode 100644 .log.txt.swp
+fatal: unable to access 'https://{lucas2500}:{bombapatch36}@github.com/{lucas2500}/{auto-push-crontab}.git/': The requested URL returned error: 400
