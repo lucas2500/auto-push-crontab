@@ -15,3 +15,9 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 To https://github.com/lucas2500/auto-push-crontab.git
    f4d040d..04efb22  master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 8ffdaf0] <Atualizando>
+ 3 files changed, 6 insertions(+), 4 deletions(-)
+ delete mode 100644 .AutoPush.sh.swp
+To https://github.com/lucas2500/auto-push-crontab.git
+   04efb22..8ffdaf0  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
