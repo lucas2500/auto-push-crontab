@@ -7,3 +7,6 @@ fatal: could not read Password for 'https://lucas2500@github.com': No such devic
  2 files changed, 5 insertions(+)
  create mode 100644 .AutoPush.sh.swp
 fatal: could not read Password for 'https://lucas2500@github.com': No such device or address
+[master e713e57] <updating>
+ 2 files changed, 4 insertions(+)
+fatal: could not read Password for 'https://lucas2500@github.com': No such device or address
