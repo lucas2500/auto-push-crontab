@@ -184,3 +184,10 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 To https://github.com/lucas2500/auto-push-crontab.git
    9828777..516324c  master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 85ad144] <Atualizando>
+ 2 files changed, 7 insertions(+)
+ create mode 100755 RedmineBackup.sh
+To https://github.com/lucas2500/auto-push-crontab.git
+   516324c..85ad144  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
