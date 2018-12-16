@@ -1,0 +1,4 @@
+[master 0c58d4a] <updating>
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 .AutoPush.sh.swp
+fatal: could not read Password for 'https://lucas2500@github.com': No such device or address
