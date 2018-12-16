@@ -7,4 +7,4 @@ git -C /var/backups/teste/ config user.nome "Lucas Rafael"
 
 git -C /var/backups/teste/ config user.email "lucasrafael654@gmail.com"
 
-git -C /var/backups/teste/ push origin master 
+git -C /var/backups/teste/ push -u origin master 
