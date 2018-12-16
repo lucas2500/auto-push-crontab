@@ -11,3 +11,6 @@ fatal: could not read Password for 'https://lucas2500@github.com': No such devic
 [master 35e56bc] <updating>
  1 file changed, 3 insertions(+)
 fatal: could not read Password for 'https://lucas2500@github.com': No such device or address
+[master 9da4445] <updating>
+ 1 file changed, 3 insertions(+)
+fatal: could not read Password for 'https://lucas2500@github.com': No such device or address
