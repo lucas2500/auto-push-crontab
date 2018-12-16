@@ -6,3 +6,6 @@ fatal: could not read Username for 'https://github.com': No such device or addre
  2 files changed, 4 insertions(+)
  create mode 100644 .log.txt.swp
 fatal: could not read Username for 'https://github.com': No such device or address
+On branch master
+nothing to commit, working tree clean
+fatal: could not read Username for 'https://github.com': No such device or address
