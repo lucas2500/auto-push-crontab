@@ -12,3 +12,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 [master 860089a] <updating>
  1 file changed, 3 insertions(+)
 fatal: could not read Username for 'https://github.com': No such device or address
+[master e2a41f6] <updating>
+ 2 files changed, 3 insertions(+)
+ create mode 100644 .log.txt.swp
+fatal: could not read Username for 'https://github.com': No such device or address
