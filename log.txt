@@ -1,0 +1,4 @@
+[master d334c9d] <updating>
+ 3 files changed, 2 insertions(+), 6 deletions(-)
+ delete mode 100644 .AutoPush.sh.swp
+fatal: could not read Username for 'https://github.com': No such device or address
