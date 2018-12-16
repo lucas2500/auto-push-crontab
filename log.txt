@@ -28,3 +28,6 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 [master 9d71dc0] <updating>
  1 file changed, 3 insertions(+)
 fatal: could not read Username for 'https://github.com': No such device or address
+[master fa19aef] <updating>
+ 1 file changed, 3 insertions(+)
+fatal: could not read Username for 'https://github.com': No such device or address
