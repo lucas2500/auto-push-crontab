@@ -24,3 +24,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 [master 731de68] <updating>
  2 files changed, 9 insertions(+), 1 deletion(-)
 fatal: could not read Username for 'https://github.com': No such device or address
+[master 4ec4880] <updating>
+ 2 files changed, 3 insertions(+)
+ create mode 100644 .AutoPush.sh.swp
+fatal: could not read Username for 'https://github.com': No such device or address
