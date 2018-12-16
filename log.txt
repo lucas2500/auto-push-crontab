@@ -1,8 +1,0 @@
-[master 6f04182] <updating>
- 2 files changed, 62 deletions(-)
- create mode 100644 .AutoPush.sh.swp
- rewrite log.txt (100%)
-fatal: could not read Password for 'https://lucas2500@github.com': No such device or address
-[master 7018d5a] <updating>
- 2 files changed, 5 insertions(+)
-fatal: could not read Password for 'https://lucas2500@github.com': No such device or address
