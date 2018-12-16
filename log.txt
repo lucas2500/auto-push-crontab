@@ -1,0 +1,6 @@
+[master 6db5875] <updating>
+ 3 files changed, 2 insertions(+), 11 deletions(-)
+ delete mode 100644 .AutoPush.sh.swp
+ rewrite log.txt (100%)
+/var/backups/teste/AutoPush.sh: 8: /var/backups/teste/AutoPush.sh: bombapatch36: not found
+fatal: could not read Username for 'https://github.com': No such device or address
