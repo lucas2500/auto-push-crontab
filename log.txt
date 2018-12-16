@@ -1,0 +1,5 @@
+[master 02bbc96] <updating>
+ 3 files changed, 2 insertions(+), 12 deletions(-)
+ delete mode 100644 .AutoPush.sh.swp
+ rewrite log.txt (100%)
+fatal: unable to access 'https://{lucas2500}:{bombapatch36}@github.com/{lucas2500}/{auto-push-crontab}.git/': The requested URL returned error: 400
