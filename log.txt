@@ -1,0 +1,4 @@
+[master 4d8c52d] <updating>
+ 1 file changed, 94 deletions(-)
+ rewrite log.txt (100%)
+fatal: could not read Username for 'https://github.com': No such device or address
