@@ -58,3 +58,8 @@ fatal: unable to access 'https://lucas2500:bombapatch36@github.com/lucas2500/aut
 [master 95e7cb1] <Atualizando>
  1 file changed, 3 insertions(+)
 fatal: unable to access 'https://lucas2500:bombapatch36@github.com/lucas2500/auto-push-crontab.git/': server certificate verification failed. CAfile: /etc/ssl/certs/ca-certificates.crt CRLfile: none
+[master db21110] <Atualizando>
+ 1 file changed, 3 insertions(+)
+To https://github.com/lucas2500/auto-push-crontab.git
+   8e08c43..db21110  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
