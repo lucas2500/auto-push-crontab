@@ -1,7 +1,7 @@
 
 git -C /var/backups/teste/ add --all
 
-git -C /var/backups/teste/ commit -m '<updating>'
+git -C /var/backups/teste/ commit -m '<Atualizando>'
 
 git -C /var/backups/teste/ config user.nome "Lucas Rafael"
 
