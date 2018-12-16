@@ -29,3 +29,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
  1 file changed, 4 insertions(+)
 /var/backups/teste/AutoPush.sh: 8: /var/backups/teste/AutoPush.sh: bombapatch36: not found
 fatal: could not read Username for 'https://github.com': No such device or address
+[master ce40924] <updating>
+ 2 files changed, 4 insertions(+)
+/var/backups/teste/AutoPush.sh: 8: /var/backups/teste/AutoPush.sh: bombapatch36: not found
+fatal: could not read Username for 'https://github.com': No such device or address
