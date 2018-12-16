@@ -40,3 +40,6 @@ fatal: unable to access 'https://lucas2500:bombapatch36@github.com/lucas2500/aut
 [master 44cf9ba] <Atualizando>
  1 file changed, 3 insertions(+)
 fatal: unable to access 'https://lucas2500:bombapatch36@github.com/lucas2500/auto-push-crontab.git/': Could not resolve host: github.com
+[master 8da00fd] <Atualizando>
+ 1 file changed, 3 insertions(+)
+fatal: unable to access 'https://lucas2500:bombapatch36@github.com/lucas2500/auto-push-crontab.git/': Could not resolve host: github.com
