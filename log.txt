@@ -377,3 +377,10 @@ To https://github.com/lucas2500/auto-push-crontab.git
    1af4c31..023d230  master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[master 5ad68ad] <Atualizando>
+ 2 files changed, 8 insertions(+)
+ create mode 100644 RedmineBackup_2018-12-170017.sql.gz
+To https://github.com/lucas2500/auto-push-crontab.git
+   023d230..5ad68ad  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
